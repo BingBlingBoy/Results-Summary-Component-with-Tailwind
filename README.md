@@ -27,8 +27,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [https://www.frontendmentor.io/solutions/results-summary-component-with-tailwind-desktop-solution-fF0kqZtqyG](https://solution-url.com)
+- Live Site URL: [[Add live site URL here](https://bingblingboy.github.io/Results-Summary-Component-with-Tailwind/)](https://live-site-url.com)
 
 ## My process
 
